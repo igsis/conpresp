@@ -26,7 +26,7 @@
 		<div class="row">
 			<div class="section-heading">
 				<p align="left"><strong><?php echo saudacao(); ?>, <?php echo $_SESSION['nome']; ?></strong></p><br>
-				<h5>Bem-vindo(a) ao SINCOR - Sistema Integrado de Controle Orçamentário.</h5>
+				<h5>Bem-vindo(a) ao  CONPRESP - Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo / Secretaria Municipal de Cultura / Prefeitura de São Paulo.</h5>
 			</div>
 		</div>	
 		<div class="table-responsive list_info">

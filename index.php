@@ -16,7 +16,7 @@ if(isset($_POST['login']))
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>SINCOR - v0.1 - 2017</title>
+		<title>CONPRESP - v0.1 - 2017</title>
 		<link href="visual/css/bootstrap.min.css" rel="stylesheet" media="screen">
 		<link href="visual/css/style.css" rel="stylesheet" media="screen">
 		<link href="visual/color/default.css" rel="stylesheet" media="screen">
@@ -28,7 +28,7 @@ if(isset($_POST['login']))
 				<div class="row">
 					<div class="col-md-offset-2 col-md-8">
 						<div class="text-hide">
-							<h2>SINCOR - SMC</h2>
+							<h2>CONPRESP - SMC</h2>
 						</div>
 					</div>
 				</div>

@@ -17,7 +17,7 @@
 		<p>&nbsp;</p>
 		<div class="form-group">
 			<div class="col-md-offset-2 col-md-8">
-				<h6>SINCOR - Sistema Integrado de Controle Orçamentário</h6>
+				<h6> CONPRESP - Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo / Secretaria Municipal de Cultura / Prefeitura de São Paulo</h6>
 				<p><strong>Versão:</strong> 0.1</p>
 				<br/>
 				<h6>Equipe SMC/S.T.I. Desenvolvimento</h6>

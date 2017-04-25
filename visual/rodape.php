@@ -4,7 +4,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-12">
-					<p>2017 @ SINCOR - Sistema Integrado de Controle Orçamentário / Secretaria Municipal de Cultura / Prefeitura de São Paulo</p>
+					<p>2017 @ CONPRESP - Conselho Municipal de Preservação do Patrimônio Histórico, Cultural e Ambiental da Cidade de São Paulo / Secretaria Municipal de Cultura / Prefeitura de São Paulo</p>
 				</div>
 				<div class="col-md-12">
 					<?php
